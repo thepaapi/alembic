@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "GB Whatsapp Download | Letest Version GB Whatsapp 2024 " # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "GB Whatsapp Letest version download Free, Un Ban GB Whatsapp download" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://thepaapi.github.io/alembic/" # Site url, also used in jekyll-seo-tag
 baseurl: "https://thepaapi.github.io/alembic/"
 #repo: "https://github.com/daviddarnes/alembic"
 #email: "me@daviddarnes.com"
